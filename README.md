@@ -18,7 +18,7 @@
 
 1. Click on `Fork`.
 2. Go to your fork and `clone` the project to your local machine.
-3. `git clone https://github.com/vinaysomawat/django-file-handle.git`
+3. `git clone https://github.com/rishivarnakavi/File-manager-Django.git`
 4. Install the requirements `pip install -r requirements.txt`
 5. Apply the migrations `python manage.py migrate`
 6. Finally, run the development server `python manage.py runserver`
